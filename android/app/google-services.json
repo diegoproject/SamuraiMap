@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "212152063468",
+    "firebase_url": "https://react-native-firebase-aa49c.firebaseio.com",
+    "project_id": "react-native-firebase-aa49c",
+    "storage_bucket": "react-native-firebase-aa49c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212152063468:android:a343318d4f2d0b05f51cc9",
+        "android_client_info": {
+          "package_name": "com.samuraimap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212152063468-2rho5lnon5g7o9o53s5749q448fnkofu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJuJOys0CCMGGMgJMVb4FSobLRvmC7MiM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "212152063468-2rho5lnon5g7o9o53s5749q448fnkofu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "212152063468-p0d73ulliti0af9n4pj5ktna5mh6l8nu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.frevou.firebase"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
